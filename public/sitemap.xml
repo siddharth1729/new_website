@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/</loc>
+        <loc>http://127.0.0.1:1031/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/blog/</loc>
+        <loc>http://127.0.0.1:1031/blog/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/blog/ipsum/</loc>
+        <loc>http://127.0.0.1:1031/blog/ipsum/</loc>
         <lastmod>1970-01-02</lastmod>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/blog/lorem/</loc>
+        <loc>http://127.0.0.1:1031/blog/lorem/</loc>
         <lastmod>1970-01-01</lastmod>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/blog/the-quill-of-duck/</loc>
+        <loc>http://127.0.0.1:1031/blog/the-quill-of-duck/</loc>
         <lastmod>2023-08-31</lastmod>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/projects/</loc>
+        <loc>http://127.0.0.1:1031/projects/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/projects/this-is-to-test-the-title/</loc>
+        <loc>http://127.0.0.1:1031/projects/this-is-to-test-the-title/</loc>
         <lastmod>1970-01-02</lastmod>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/readings/</loc>
+        <loc>http://127.0.0.1:1031/readings/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/readings/comments/</loc>
+        <loc>http://127.0.0.1:1031/readings/comments/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/readings/page/</loc>
+        <loc>http://127.0.0.1:1031/readings/page/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/tags/</loc>
+        <loc>http://127.0.0.1:1031/tags/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/tags/demo/</loc>
+        <loc>http://127.0.0.1:1031/tags/demo/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/tags/ipsum/</loc>
+        <loc>http://127.0.0.1:1031/tags/ipsum/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/tags/lorem/</loc>
+        <loc>http://127.0.0.1:1031/tags/lorem/</loc>
     </url>
     <url>
-        <loc>https://master--gorgeous-caramel-68437a.netlify.app/tags/test/</loc>
+        <loc>http://127.0.0.1:1031/tags/test/</loc>
     </url>
 </urlset>

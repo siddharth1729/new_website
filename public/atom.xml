@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Siddharth Sabron</title>
     <subtitle>Siddharth is a computer science enthusiast, primarily interested in algorithms, design principles, databases, large-scale systems and distributed systems</subtitle>
-    <link href="https://master--gorgeous-caramel-68437a.netlify.app/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://master--gorgeous-caramel-68437a.netlify.app/"/>
+    <link href="http://127.0.0.1:1031/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="http://127.0.0.1:1031"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-08-31T00:00:00+00:00</updated>
-    <id>https://master--gorgeous-caramel-68437a.netlify.app/atom.xml</id>
+    <id>http://127.0.0.1:1031/atom.xml</id>
     <entry xml:lang="en">
         <title>The Quill of Duck</title>
         <published>2023-08-31T00:00:00+00:00</published>
@@ -14,10 +14,10 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://master--gorgeous-caramel-68437a.netlify.app/blog/the-quill-of-duck/" type="text/html"/>
-        <id>https://master--gorgeous-caramel-68437a.netlify.app/blog/the-quill-of-duck/</id>
+        <link rel="alternate" href="http://127.0.0.1:1031/blog/the-quill-of-duck/" type="text/html"/>
+        <id>http://127.0.0.1:1031/blog/the-quill-of-duck/</id>
         
-        <content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;master--gorgeous-caramel-68437a.netlify.app&#x2F;blog&#x2F;the-quill-of-duck&#x2F;quill.png&quot; alt=&quot;Quill&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;127.0.0.1:1031&#x2F;blog&#x2F;the-quill-of-duck&#x2F;quill.png&quot; alt=&quot;Quill&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-what&quot;&gt;The what?&lt;&#x2F;h2&gt;
 &lt;p&gt;This is a Duckquill post example, this post has nothing but a bunch of text and random formatting, acting like a demo.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;some-info&quot;&gt;Some info&lt;&#x2F;h2&gt;
@@ -26,7 +26,7 @@
 &lt;h2 id=&quot;the-stanley&quot;&gt;The &lt;em&gt;Stanley&lt;&#x2F;em&gt;!&lt;&#x2F;h2&gt;
 &lt;p&gt;This is the story of a man named &lt;em&gt;Stanley&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Stanley&lt;&#x2F;em&gt; worked for a company in a big building where he was Employee &lt;code&gt;#427&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;master--gorgeous-caramel-68437a.netlify.app&#x2F;blog&#x2F;the-quill-of-duck&#x2F;the-office.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;127.0.0.1:1031&#x2F;blog&#x2F;the-quill-of-duck&#x2F;the-office.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;figcaption&gt;The Office where Stanley works, it has yellow floor and beige walls&lt;&#x2F;figcaption&gt;
 &lt;p&gt;Employee &lt;code&gt;#427&lt;&#x2F;code&gt;’s job was simple: he sat at his desk in Room &lt;code&gt;427&lt;&#x2F;code&gt; and he pushed buttons on a keyboard.&lt;&#x2F;p&gt;
 &lt;p&gt;Orders came to him through a monitor on his desk telling him what buttons to push, how long to push them, and in what order.&lt;&#x2F;p&gt;
@@ -51,8 +51,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://master--gorgeous-caramel-68437a.netlify.app/blog/ipsum/" type="text/html"/>
-        <id>https://master--gorgeous-caramel-68437a.netlify.app/blog/ipsum/</id>
+        <link rel="alternate" href="http://127.0.0.1:1031/blog/ipsum/" type="text/html"/>
+        <id>http://127.0.0.1:1031/blog/ipsum/</id>
         
         <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
@@ -67,8 +67,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://master--gorgeous-caramel-68437a.netlify.app/projects/this-is-to-test-the-title/" type="text/html"/>
-        <id>https://master--gorgeous-caramel-68437a.netlify.app/projects/this-is-to-test-the-title/</id>
+        <link rel="alternate" href="http://127.0.0.1:1031/projects/this-is-to-test-the-title/" type="text/html"/>
+        <id>http://127.0.0.1:1031/projects/this-is-to-test-the-title/</id>
         
         <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
@@ -83,8 +83,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://master--gorgeous-caramel-68437a.netlify.app/blog/lorem/" type="text/html"/>
-        <id>https://master--gorgeous-caramel-68437a.netlify.app/blog/lorem/</id>
+        <link rel="alternate" href="http://127.0.0.1:1031/blog/lorem/" type="text/html"/>
+        <id>http://127.0.0.1:1031/blog/lorem/</id>
         
         <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;

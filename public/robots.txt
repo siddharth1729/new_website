@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://master--gorgeous-caramel-68437a.netlify.app/sitemap.xml
+Sitemap: http://127.0.0.1:1031/sitemap.xml
