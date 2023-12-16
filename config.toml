@@ -41,9 +41,10 @@ issues_url = "https://git.exozy.me/daudix/duckquill/issues"
 source_url = "https://git.exozy.me/daudix/duckquill"
 # Additional stylesheets; expects it to be in the ./static/ directory.
 # If you are using Sass it will be compiled there anyway.
-stylesheets = [
-  "./scss/style.scss",
-]
+# stylesheets = [
+#   "YOUR_STYLE.css",
+#   "ALSO_YOUR_STYLE.css"
+# ]
 
 [extra.nav]
 # Display Atom/RSS feed button in the nav
