@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+
+<p>{{ section.description }}</p>
+
+<small>
+  <a class="link-page" href="{{ config.base_url }}/tags">Filter by tag</a>
+  <br />
+  From newest to oldest ↓
+</small>
+
+{% for page in section.pages %}
+<article>
+  <h4>
+    <a class="link-page" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+  </h4>
+</article>
+{% endfor %}
+{% endblock content %}
