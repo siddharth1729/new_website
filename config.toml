@@ -41,10 +41,9 @@ issues_url = "https://git.exozy.me/daudix/duckquill/issues"
 source_url = "https://git.exozy.me/daudix/duckquill"
 # Additional stylesheets; expects it to be in the ./static/ directory.
 # If you are using Sass it will be compiled there anyway.
-# stylesheets = [
-#   "YOUR_STYLE.css",
-#   "ALSO_YOUR_STYLE.css"
-# ]
+stylesheets = [
+  "./scss/style.scss",
+]
 
 [extra.nav]
 # Display Atom/RSS feed button in the nav
@@ -60,7 +59,7 @@ links = [
 
 [extra.footer]
 # URL to the website without the https:// part, used for Johnvertisement leaderboard
-johnvert_ref = "thelegion.tech"
+johnvert_ref = "master--gorgeous-caramel-68437a.netlify.app"
 # "© Title, YEAR" in the footer
 show_copyright = false
 # Johnvertisement in the footer
