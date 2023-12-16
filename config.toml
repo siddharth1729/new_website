@@ -12,9 +12,7 @@ generate_feed = true
 feed_filename = "atom.xml"
 build_search_index = true
 
-taxonomies = [
-  {name = "tags", feed = true},
-]
+taxonomies = [{ name = "tags", feed = true }]
 
 [markdown]
 highlight_code = true
@@ -51,10 +49,11 @@ source_url = "https://git.exozy.me/daudix/duckquill"
 show_feed = true
 # Links used in the nav
 links = [
-  {url = "https://github.com/siddharth1729", name = "Github"},
-  {url = "/readings", name = "Readings"},
-  {url = "/blog", name = "Blog"},
-  {url = "/tags", name = "Tags"},
+  { url = "https://github.com/siddharth1729", name = "Github" },
+  { url = "/readings", name = "Readings" },
+  { url = "/blog", name = "Blog" },
+  { url = "/projects", name = "Projets" },
+  { url = "/tags", name = "Tags" },
 ]
 
 [extra.footer]
@@ -89,4 +88,3 @@ user = "Siddharth"
 # recommended to use a dedicated bot/API account to create an application with
 # scope read:statuses.
 token = "jTNX9pAV8XEPBby0cPWF6CmGY60kkIy4vidggfxXmoQ"
-

@@ -1,5 +1,5 @@
 +++
-title = "Ipsum"
+title = "This is to test the title"
 description = "Lorem ipsum dolor sit amet."
 date = 1970-01-02
 [taxonomies]
