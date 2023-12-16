@@ -10,7 +10,7 @@ compile_sass = true
 minify_html = true
 generate_feed = true
 feed_filename = "atom.xml"
-build_search_index = false
+build_search_index = true
 
 taxonomies = [
   {name = "tags", feed = true},
@@ -54,7 +54,7 @@ links = [
   {url = "https://github.com/siddharth1729", name = "Github"},
   {url = "/readings", name = "Readings"},
   {url = "/blog", name = "Blog"},
-  {url = "/tag", name = "Tags"},
+  {url = "/tags", name = "Tags"},
 ]
 
 [extra.footer]
