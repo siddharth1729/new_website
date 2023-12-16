@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include "includes/head.html" ignore missing -%}
+{% include "includes/head.html"  -%}
 
 <body>
-  {% include "includes/nav.html" ignore missing -%}
+  {% include "includes/nav.html"  -%}
   <div class="container">
   {% block custom %}{%- endblock -%}
   {% block content %}{%- endblock -%}
   </div>
-  {% include "includes/footer.html" ignore missing -%}
+  {% include "includes/footer.html"  -%}
 </body>
 
 </html>
