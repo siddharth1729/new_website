@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://thelegion.tech"
+base_url = "https://master--gorgeous-caramel-68437a.netlify.app/"
 
 # Whether to automatically compile all Sass files in the sass directory
 title = "Siddharth Sabron"

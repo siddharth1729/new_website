@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://thelegion.tech/sitemap.xml
+Sitemap: https://master--gorgeous-caramel-68437a.netlify.app/sitemap.xml
