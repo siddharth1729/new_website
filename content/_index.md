@@ -3,15 +3,46 @@
 
 {% crt() %}
 ```
-      _          _          _          _          _
-    >(')____,  >(')____,  >(')____,  >(')____,  >(') ___,
-      (` =~~/    (` =~~/    (` =~~/    (` =~~/    (` =~~/
-jgs~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~
+            ██╗     ███████╗ ██████╗ ██╗ ██████╗ ███╗   ██╗
+            ██║     ██╔════╝██╔════╝ ██║██╔═══██╗████╗  ██║
+            ██║     █████╗  ██║  ███╗██║██║   ██║██╔██╗ ██║
+            ██║     ██╔══╝  ██║   ██║██║██║   ██║██║╚██╗██║
+            ███████╗███████╗╚██████╔╝██║╚██████╔╝██║ ╚████║
+            ╚══════╝╚══════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 {% end %}
 
-# Duckquill
+# Siddharth
 
+
+<!-- ########################################################################################## -->
+
+Hi! I am Siddharth, a Software Engineer at [Fortum](https://www.fortum.com/) with over a year of experience in Node.js and Java. I am currently learning Rust. I am primarily interested in algorithms, data structures, design principles, databases, large-scale systems, and distributed systems.
+
+For the past few months, I have been exploring Rust, storage engines, distributed systems, and networking. I will use all this learning to build a small in-memory storage engine which will be distributed in nature, for learning and fun.
+
+## Now
+
+I spend most of my time working at **Fortum**. After work, I'm usually mentally exhausted and just need a good rest so I can do some chores before sleep.
+
+I'm still struggling to get back into writing, partly because my life priorities changed in mid-2023. Until I make enough progress in other areas of my life, writing and posting consistently here will not be my focus.
+
+Apart from that, I've realized I have so much to learn, and I would like to devote more time to learning in the next few months. Maybe I'll write a little along the way, maybe not. If you happen to read this and look forward to my writings, thank you, and stay tuned
+
+### Contact
+
+-   [siddharth.sabron@gmail.com](mailto:siddharth.sabron@gmail.com)
+-   [Linkedin](https://www.linkedin.com/in/siddharthsabron/)
+-   [Github](https://github.com/siddharth1729)
+-   [Discord](https://discord.com/users/596025752776998912)
+
+In my spare time, I like to experiment with photography. You can see some of my work on [Unsplash](https://unsplash.com/@sid1729)
+
+
+
+
+
+<!-- 
 [Duckquill](https://git.exozy.me/daudix/duckquill) is a modern, pretty, and clean (and very opinionated) [Zola](https://www.getzola.org) theme that has the purpose of greatly simplifying the process of rolling up your blog. It aims to provide all the needed options for comfortable writing, keeping the balance of it being simple.
 
 Edit a bit of metadata and tweak some of the included graphics and have a blog up in minutes!
@@ -160,4 +191,4 @@ The main repo is [git.exozy.me/daudix/duckquill](https://git.exozy.me/daudix/duc
 - [Cassidy James](https://cassidyjames.com) for the [Mastodon-powered Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon)
 - [Adobe Fonts](https://github.com/adobe-fonts) for the [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) font
 - [Rasmus](https://rsms.me) for the [Inter](https://rsms.me/inter/) font
-- Everyone who supported me and said good stuff <3
+- Everyone who supported me and said good stuff <3 -->

@@ -1,6 +1,6 @@
-title = "Duckquill"
+title = "Siddharth Sabron"
 base_url = "https://fabulous-longma-e3c60b.netlify.app/"
-description = "Modern, pretty, and clean theme."
+description = "Siddharth is a computer science enthusiast, primarily interested in algorithms, design principles, databases, large-scale systems and distributed systems"
 
 compile_sass = true
 minify_html = true
@@ -47,22 +47,23 @@ source_url = "https://git.exozy.me/daudix/duckquill"
 show_feed = true
 # Links used in the nav
 links = [
-  {url = "https://git.exozy.me/daudix/duckquill", name = "Repo"},
-  {url = "/demo", name = "Demo"},
+  {url = "/readings", name = "Readings"},
   {url = "/blog", name = "Blog"},
+  {url = "/projects", name = "Projects"},
+  {url = "/tag", name = "Tags"},
 ]
 
 [extra.footer]
 # URL to the website without the https:// part, used for Johnvertisement leaderboard
 johnvert_ref = "fabulous-longma-e3c60b.netlify.app"
 # "© Title, YEAR" in the footer
-show_copyright = true
+show_copyright = false
 # Johnvertisement in the footer
 show_johnvert = false
 # "Powered by Zola and Duckquill" in footer
-show_powered_by = true
+show_powered_by = false
 # Link to website source
-show_source = true
+show_source = false
 
 # Based on https://github.com/cassidyjames/cassidyjames.github.io/blob/75cd2a202de7a1026de1ea00a4ef1d5b2675c7ff/_config.yaml#L35-L74
 #
@@ -83,4 +84,4 @@ user = "Daudix"
 # WILL BE ABLE TO READ THE ASSOCIATED ACCOUNT'S PRIVATE STATUSES. It is highly
 # recommended to use a dedicated bot/API account to create an application with
 # scope read:statuses.
-token = "jTNX9pAV8XEPBby0cPWF6CmGY60kkIy4vidggfxXmoQ"
+token = ""

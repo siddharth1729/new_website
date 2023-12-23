@@ -1,6 +1,6 @@
 +++
 template = "blog.html"
-title = "Demo Page"
+title = "Readings"
 [extra]
 archive = "This page is, in fact, not archived, meaning it will receive content updates."
 trigger = "This page contains blackjack and hookers, and bad jokes such as this one."
@@ -14,7 +14,7 @@ disclaimer = """
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](@/demo/page.md).
+[Link to another page](@/readings/page.md).
 
 There should be whitespace between paragraphs.
 
