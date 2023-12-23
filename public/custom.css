@@ -1,0 +1,1 @@
+:root{--bg-color: #ccfaff;--crt-bg: radial-gradient(#002e33, #00171a);--glow: 0 0 0 1px rgba(0,229,255,.05),0 2px 6px 2px rgba(0,229,255,.05),0 4px 24px 4px rgba(0,229,255,.1);--nav-bg: rgba(230,252,255,.8);--primary-color-alpha: rgba(0,229,255,.2);--primary-color: #00e5ff}@media (prefers-color-scheme: dark){:root{--bg-color: #061213;--nav-bg: rgba(19,30,31,.8)}}
