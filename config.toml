@@ -1,5 +1,5 @@
 title = "Duckquill"
-base_url = "https://duckquill.exozy.me"
+base_url = "https://fabulous-longma-e3c60b.netlify.app/"
 description = "Modern, pretty, and clean theme."
 
 compile_sass = true
@@ -54,7 +54,7 @@ links = [
 
 [extra.footer]
 # URL to the website without the https:// part, used for Johnvertisement leaderboard
-johnvert_ref = "daudix.exozy.me"
+johnvert_ref = "fabulous-longma-e3c60b.netlify.app"
 # "© Title, YEAR" in the footer
 show_copyright = true
 # Johnvertisement in the footer
